@@ -1,4 +1,5 @@
 # Kit Blaze
+[Nosso canal no Telegram](https://t.me/+nTjeJWd7rx42MDUx) | [Instagram](https://instagram.com/rosielvictor)
 
 Criamos ferramentas para te ajudar a jogar na [Blaze](https://blaze.com), usamos um sistema de analise de dados para prever o melhor resultado possível.
 
@@ -7,3 +8,5 @@ Criamos ferramentas para te ajudar a jogar na [Blaze](https://blaze.com), usamos
 ## Aplicativos Android
 - [Blaze Double](https://github.com/misterioso013/kitblaze/releases)
 - Blaze Crash **(Em breve)**
+
+Compartilhe nosso projeto com seus amigos e ajude-nos a continuar evoluindo!
